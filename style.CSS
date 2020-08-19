@@ -1,0 +1,23 @@
+img
+{
+border: 20px solid green ;
+border-radius: 10px;
+padding: 1cm;
+margin-right: 2cm;
+
+/*
+para alinear imagenes al centro
+display: block;
+margin: auto;
+*/
+}
+
+div
+{
+    /*width: 150px;
+    height: 30xp;*/
+    background-color: greenyellow;
+    display: flex ;
+    padding:  10px;
+}
+
