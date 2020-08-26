@@ -1,0 +1,84 @@
+
+
+
+header{
+    height: 50px;
+    background-color: rgb(229, 235, 248);
+     /* margin-bottom: 50px;*/
+    text-align: left;
+    font-family: 'Do Hyeon', sans-serif;
+font-size: larger;
+}
+
+
+
+.hero{
+
+    height: 10px;
+    background-color: rgb(166, 110, 194);
+   /* margin-bottom: 80px;*/
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+
+
+.introduccion{
+    height: 225px;
+    background-color: rgb(127, 198, 216) ;
+    /*margin-bottom: 50px;*/
+    text-align: justify;
+    font-family: 'Do Hyeon', sans-serif;
+    margin-bottom: .10px;
+
+}
+
+.marco{
+    height:225px ;
+    border: solid rgb(50, 60, 92) ;
+    padding: 10px;
+}
+
+.imga
+{
+    border:  solid rgb(50, 60, 92) ;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+        
+}
+
+
+
+.contact{
+border:1px solid black;
+    height: 310px;
+    background-color: rgb(74, 164, 170);
+   
+  text-align: justify;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.coli{
+    border:1px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.titulonoticia{
+    text-align: center;
+    
+}
+.marco2{
+    height:268px ;
+    border: solid rgb(50, 60, 92) ;
+    padding: 10px;
+}
+.footer{
+    height: 180px;
+    background-color: rgb(240, 195, 195);
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.prueba{
+    visibility: hidden;
+}
